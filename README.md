@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)]()
 
-> **Note**: This repository is the official implementation of **DSRCNet**. The manuscript is currently under review. The complete training code, inference scripts, and pre-trained weights will be fully released upon publication.
+> **Note**: This repository is the official implementation of **DSRCNet**.
 
 ---
 
