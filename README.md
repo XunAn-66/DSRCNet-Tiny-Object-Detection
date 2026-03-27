@@ -42,7 +42,7 @@ Tested on a single NVIDIA GeForce RTX 3090 GPU.
 Our proposed DSRCNet provides more accurate focus on the geometric centers of tiny objects and effectively suppresses background noise compared to baseline models.
 
 <div align="center">
-  <img src="vis.png" width="1000" alt="Qualitative comparison on VisDrone dataset">
+  <img src="vis.pdf" width="1000" alt="Qualitative comparison on VisDrone dataset">
   <p align="left"><b>Figure: Qualitative comparison of feature heatmaps and detection results on the VisDrone dataset.</b><br>
   Columns from left to right: (a) Ground Truth, (b) Baseline heatmaps, (c) DSRCNet heatmaps, (d) Baseline detection results, and (e) DSRCNet detection results. The DSRCNet heatmaps clearly demonstrate a more accurate focus on the geometric centers of objects.</p>
 </div>
