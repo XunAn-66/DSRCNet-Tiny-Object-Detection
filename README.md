@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)]()
 
-> **Note**: This repository is the official implementation of **DSRCNet**.
+> **Note**:The manuscript is currently under review.
 
 ---
 
