@@ -1,4 +1,4 @@
-# DSRCNet: Tiny Object Detection in Remote Sensing Images via Dense Semantic Supervision and Spatial Calibration
+# DSRCNet: Dense Semantic Supervision and Spatial Calibration for Remote Sensing Object Detection
 
 [![Status](https://img.shields.io/badge/Paper-Under_Review-orange.svg)]()
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
@@ -37,7 +37,7 @@ Extensive experiments on **VisDrone**, **AI-TOD**, and **DIOR** datasets show th
 
 ### Performance on VisDrone Validation Dataset
 
-| Model | Params (M) | FLOPs (G) | mAP_50 (%) | mAP_50-95 (%) | FPS |
+| Model | Params (M) | FLOPs (G) | AP_50 (%) | AP (%) | FPS |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | DSRCNet-N | **1.2** | **11.7** | 38.6 | 23.3 | **146** |
 | DSRCNet-S | 4.1 | 35.3 | 45.8 | 27.4 | 133 |
